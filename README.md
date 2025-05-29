@@ -1,6 +1,7 @@
 # ¡Hola! 👋 Soy Claudia
 
 🎓 Soy estudiante de Ingeniería Informática con interés en desarrollo de software y videojuegos.
+
 💡 Me gusta aprender cosas nuevas, resolver problemas y aspiro a crear proyectos útiles o divertidos.  
 🎮 Juego a Minecraft y Stardew Valley 🌱  
 🛠 Actualmente trabajando en proyectos con Java, Python y C++.
