@@ -2,15 +2,15 @@
 
 🎓 Soy estudiante de Ingeniería Informática con interés en desarrollo de software y videojuegos.
 
-💡 Me gusta aprender cosas nuevas, resolver problemas y aspiro a crear proyectos útiles o divertidos.  
+💡 Aspiro a crear proyectos útiles.  
 🎮 Juego a Minecraft y Stardew Valley 🌱  
 🛠 Actualmente trabajando en proyectos con Java, Python y C++.
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Proyectos 
 
-- 🎨 **JavaEvents** – Aplicación de gestión de eventos con Java y Swing.
+- 🎨 **JavaEvents** – Aplicación de gestión de eventos(Java y Swing)
   
 ---
 
