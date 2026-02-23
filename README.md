@@ -29,4 +29,4 @@
 
 ---
 
-_ Gracias por visitar mi perfil :)_
+ Gracias por visitar mi perfil :)
