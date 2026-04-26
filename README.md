@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Claudia
 
-🎓 **Estudiante de Ingeniería Informática** apasionada por el desarrollo de software y la creación de videojuegos.
+🎓 **Estudiante de Ingeniería Informática** 
 
 💡 Aspiro a crear proyectos con impacto real y soluciones innovadoras.  
 🎮 En mis ratos libres, me encontrarás en **Minecraft** o gestionando mi granja en **Stardew Valley** 🌱  
