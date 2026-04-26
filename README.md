@@ -11,7 +11,9 @@
 ## 🚀 Proyectos 
 
 - 🎨 **JavaEvents** – Aplicación de gestión de eventos(Java y Swing)
-[NUEVO]: **StrangerThings: La Batalla de Hawkins**: Aplicacion de Java con concurrencia de hilos y cliente/servidor con RMI  
+
+
+- [NUEVO]: **StrangerThings: La Batalla de Hawkins**: Aplicacion de Java con concurrencia de hilos y cliente/servidor con RMI  
 ---
 
 ## 💻 Tecnologías que uso
